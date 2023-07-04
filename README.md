@@ -2,4 +2,4 @@
 
 Верстка нескольких страниц для сайта доставки
 
-https://ihoook.github.io/delivery-food/
+https://ihoook.github.io/Html-css.-Delivery/
